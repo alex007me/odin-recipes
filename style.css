@@ -1,0 +1,16 @@
+body{
+    background-color: teal;
+}
+
+.pizzaBody{
+    background-color: yellow;
+    color: darkred;
+}
+.lasagnaBody{
+    background-color: lightgreen;
+    color: red;
+}
+.fncBody{
+    background-color: darkblue;
+    color: magenta;
+}
